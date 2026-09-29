@@ -1,0 +1,3 @@
+/* rev-d4e82b-20260929 */
+CHANGELOG.txt
+0.2.2 Sep 11 2026: Intel crash, MK8DX pad, updater id

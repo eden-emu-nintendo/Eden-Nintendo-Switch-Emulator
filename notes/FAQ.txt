@@ -1,0 +1,3 @@
+/* rev-d4e82b-20260929 */
+FAQ.txt
+no keys in zip. apk on Android. Vulkan GPU.
